@@ -1,0 +1,2 @@
+./my_secure_files/passwords.txt|ac5eaeedfd91b94016c4cce92ae2cc800e0c069f31b75b603c52c7323e9f1f7a
+./my_secure_files/config.cfg|9ee94f862a296af10f4690608def3f863a09d10649a776c4bab9ac1403dd9129
