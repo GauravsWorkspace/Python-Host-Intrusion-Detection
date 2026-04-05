@@ -2,7 +2,7 @@
 
 A lightweight, high-performance **Host Intrusion Detection System (HIDS)** developed in Python. This tool ensures data integrity by monitoring sensitive directories for unauthorized modifications using cryptographic hashing.
 
-![FIM Demo](./Screenshot_2026-04-05_20_41_35.jpg)
+![FIM Demo](./Screenshot_2026-04-05_20_41_35.png)
 
 ## 🌟 Key Features
 - **SHA-256 Integrity Verification:** Generates unique digital fingerprints for every file to detect even a single-character change.
